@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/IslamFahmy10/Daily-tasks.git/static/css/main.16333b3c.css",
-    "main.js": "/IslamFahmy10/Daily-tasks.git/static/js/main.5e6f966c.js",
-    "static/js/453.81f383cb.chunk.js": "/IslamFahmy10/Daily-tasks.git/static/js/453.81f383cb.chunk.js",
-    "index.html": "/IslamFahmy10/Daily-tasks.git/index.html",
-    "main.16333b3c.css.map": "/IslamFahmy10/Daily-tasks.git/static/css/main.16333b3c.css.map",
-    "main.5e6f966c.js.map": "/IslamFahmy10/Daily-tasks.git/static/js/main.5e6f966c.js.map",
-    "453.81f383cb.chunk.js.map": "/IslamFahmy10/Daily-tasks.git/static/js/453.81f383cb.chunk.js.map"
+    "main.css": "/Daily-tasks/static/css/main.16333b3c.css",
+    "main.js": "/Daily-tasks/static/js/main.48862b11.js",
+    "static/js/453.81f383cb.chunk.js": "/Daily-tasks/static/js/453.81f383cb.chunk.js",
+    "index.html": "/Daily-tasks/index.html",
+    "main.16333b3c.css.map": "/Daily-tasks/static/css/main.16333b3c.css.map",
+    "main.48862b11.js.map": "/Daily-tasks/static/js/main.48862b11.js.map",
+    "453.81f383cb.chunk.js.map": "/Daily-tasks/static/js/453.81f383cb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.16333b3c.css",
-    "static/js/main.5e6f966c.js"
+    "static/js/main.48862b11.js"
   ]
 }
