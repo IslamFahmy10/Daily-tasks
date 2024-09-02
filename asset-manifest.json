@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/IslamFahmy10/Daily-tasks.git/static/css/main.16333b3c.css",
+    "main.js": "/IslamFahmy10/Daily-tasks.git/static/js/main.5e6f966c.js",
+    "static/js/453.81f383cb.chunk.js": "/IslamFahmy10/Daily-tasks.git/static/js/453.81f383cb.chunk.js",
+    "index.html": "/IslamFahmy10/Daily-tasks.git/index.html",
+    "main.16333b3c.css.map": "/IslamFahmy10/Daily-tasks.git/static/css/main.16333b3c.css.map",
+    "main.5e6f966c.js.map": "/IslamFahmy10/Daily-tasks.git/static/js/main.5e6f966c.js.map",
+    "453.81f383cb.chunk.js.map": "/IslamFahmy10/Daily-tasks.git/static/js/453.81f383cb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.16333b3c.css",
+    "static/js/main.5e6f966c.js"
+  ]
+}
